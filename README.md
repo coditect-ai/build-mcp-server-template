@@ -2,7 +2,7 @@
 
 An MCP (Model Context Protocol) server that exposes internal organizational data — employee directory, project management, ticketing, and knowledge base — to AI assistants.
 
-**Companion blog post:** [How to Build MCP Servers for Your Internal Data](https://freecodecamp.org) (freeCodeCamp)
+**Companion blog post:** [How to Build MCP Servers for Your Internal Data](https://freecodecamp.org/how-to-build-mcp-servers-for-your-internal-data-a-practical-guide) (freeCodeCamp)
 
 ## Features
 
